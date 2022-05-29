@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(rgb(0, 204, 255),rgb(176, 10, 209),rgb(226, 17, 17));
+}
+
+header{
+      background-image: linear-gradient(rgb(0, 255, 200),rgb(195, 0, 255),rgb(252, 6, 27));
+      display: flex;
+      padding: 80px 0px 80px 45px;
+      width: 100%px;
+}
+
+.link-header {
+  font-size: 30px;
+  text-decoration: none;
+  background-color:lightblue ;
+  border-radius: 20px;
+  padding: 20px;
+  color: purple;
+}
+
+.link-nav {
+    font-size: 30px;
+    text-decoration: none;
+    justify-content: space-between;
+    margin-right: 55px;
+    color: white;
+    margin-top: 40px;
+}
+
+nav {
+    padding: 35px 40px 0px 40px;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: orange;
+}
+
+ul {
+    font-size: 26px;
+}
+
+p {
+    font-size: 24px;
+    margin-left: 60px;
+}
+
+.social {
+    margin-right: 60px;
+}
+
+footer {
+justify-content: space-between;
+display: flex;
+margin-top: 20px;
+}
